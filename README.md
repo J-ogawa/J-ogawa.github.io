@@ -4,4 +4,4 @@
 GitHub Pages で `https://j-ogawa.github.io/` として公開している。
 
 - `app-ads.txt`：AdMob の販売者の記載（App Store Connect のマーケティング URL のドメイン直下に必要）
-- `dress-up-timer/`：DressUpTimer のサポートページとプライバシーポリシー
+- `dress-up-timer/`：きせかえタイマー（DressUpTimer）のサポートページとプライバシーポリシー
