@@ -1,0 +1,3 @@
+# TODO: pub-0000000000000000 を AdMob のパブリッシャー ID に置き換える
+# （AdMob 管理画面の「アプリ」→「app-ads.txt」に表示される行をそのまま貼れば良い）
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
