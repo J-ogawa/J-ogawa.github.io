@@ -79,3 +79,20 @@ footer {
 .lang {
   float: right;
 }
+
+/* App Store へのリンクのボタン */
+.store-button {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 12px;
+  background: #000;
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+}
+@media (prefers-color-scheme: dark) {
+  .store-button {
+    background: #fff;
+    color: #000;
+  }
+}
